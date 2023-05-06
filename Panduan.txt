@@ -1,0 +1,11 @@
+		          ||==========================================================================================================||
+	                  ||   		                                   CHOCO MATES                                                ||   
+		          ||==========================================================================================================||
+  		          || Panduan Penggunaan Aplikasi :						            	              ||
+     		          || 1. Buka Aplikasi sesuai perintah admin								      ||		
+     		          || 2. Jika anda seorang pelanggan, pilih menu 'Customer'					              ||
+     		          || 3. Jika anda seorang admin, pilih menu 'Admin'							      ||
+     	                  || 4. Jika terdapat pilihan menu, inputkan nomer menu						              ||
+     		          || 5. Tidak boleh menginputkan nama menu pada opsi pemilihan menu					      ||
+     		          || 6. Jika terdapat opsi [y/n], inputkan 'y' jika setuju, inputkan 'n' jika tidak setuju		      ||
+		          ||==========================================================================================================||

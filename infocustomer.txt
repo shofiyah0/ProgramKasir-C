@@ -1,0 +1,11 @@
+		     ||========================================================================================================================||
+	             ||                                                     CHOCO MATES                                                        ||
+		     ||========================================================================================================================||
+   		     || Benefit - benefit yang bisa kamu dapatkan di Choco Mates :                                                             ||
+      		     || 1. Dapat memilih coklat sesuai keinginan.                                                                              ||
+      		     || 2. Anda bisa mendapatkan diskon sebesar 10% ketika total belanja > Rp.400.000                                          ||
+      		     || 3. Anda bisa mendapatkan diskon sebesar 20% ketika total belanja > Rp.700.000                                          ||
+		     || 4. Anda bisa mendapatkan poin belanja 100 ketika total belanja 250.000-500.000					       ||
+                     || 5. Anda bisa mendapatkan poin belanja 300 ketika total belanja 500.000-750.000					       ||
+                     || 6. Anda bisa mendapatkan poin belanja 500 ketika total belanja lebih dari 750.0000                                     ||
+		     ||========================================================================================================================||
